@@ -1,0 +1,75 @@
+.one
+{
+    background-color: palevioletred;
+    height: 100px;
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    margin: 0px;
+}
+
+h1
+{
+    line-height: 100px;
+    margin: 0px;
+    font-size: large;
+    padding-left: 25px;
+}
+
+.top
+{
+    float: left;
+    padding-right: 20px;
+    line-height: 100px;
+}
+
+.boxOne
+{
+    height: 300px;
+    width: auto;
+    border: 5px black dotted;
+    margin: 10px;
+}
+
+.boxTwo
+{
+    height: 400px;
+    width: auto;
+    border: 5px black dotted;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2
+{
+    font-size: medium;
+    float: left;
+    display: block;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.imgOne
+{
+    width: 100px;
+    float: left;
+    padding-top: 10px;
+}
+
+p
+{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.imgTwo
+{
+    width: 75px;
+    float: right;
+}
+

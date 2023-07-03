@@ -1,0 +1,193 @@
+.top
+{
+    background-color: aquamarine;
+    height: 100px;
+    line-height: 100px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+body
+{
+    margin: 0px;
+}
+
+h1
+{
+    font-size: small;
+    padding-left: 10px;
+}
+
+.boxOne
+{
+    height: 200px;
+    border: 2px black dashed;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pur 
+{
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-top: 80px;
+    margin-left: 20px;
+    float: left;
+    border: 2px solid red;
+}
+
+.blue
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    float: left;
+    margin-top: 80px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.pink
+{
+    height: 150px;
+    width: 150px;
+    background-color: palevioletred;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+
+.boxTwo
+{
+    height: 320px;
+    border: 2px black dashed;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.boxThree
+{
+    height: 220px;
+    border: 2px black dashed;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.snowHead
+{
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.eye
+{
+    background-color: black;
+    border-radius: 100%;
+    height: 7px;
+    width: 7px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.eye2
+{
+    background-color: black;
+    border-radius: 100%;
+    height: 7px;
+    width: 7px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.snowBody
+{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin-left: 15px;
+}
+
+.button
+{
+    height: 7px;
+    width: 7px;
+    background-color: black;
+    border-radius: 100%;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.snowBottom
+{
+    height: 120px;
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+
+.carrot
+{
+    width: 30px;
+    margin-left: 20px;
+}
+
+.outerBox
+{
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.greenCir
+{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-top: 0px;
+    float: left;
+}
+
+.innerBox
+{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+p
+{
+   color: white;
+   padding: 0px;
+   margin: 0px;
+}
+
+.blueCir
+{
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    border-radius: 100%;
+    margin-bottom: 0px;
+}
+
+.goldFish
+{
+    width: 40px;
+    margin-top: 25px;
+}
